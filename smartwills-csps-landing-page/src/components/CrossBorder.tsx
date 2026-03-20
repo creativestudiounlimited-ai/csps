@@ -19,13 +19,13 @@ export function CrossBorder() {
         {/* Feature Grid */}
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8 max-w-4xl mx-auto">
           
-          {/* Feature 1: Master Jurisdictions */}
+          {/* Feature 1: Expand Your Market */}
           <div className="text-center bg-white p-8 rounded-2xl border border-[#E5E7EB] shadow-[0_8px_30px_rgb(0,0,0,0.08)]">
             <div className="w-12 h-12 mb-6 mx-auto flex items-center justify-center bg-gray-50 rounded-xl border border-gray-100">
               <Globe className="w-6 h-6 text-[#ab0f0f]" />
             </div>
-            <h3 className="text-lg font-bold text-gray-900 mb-3">Master Jurisdictions</h3>
-            <p className="text-gray-500 leading-relaxed text-base">Navigate complex legal frameworks across borders with absolute confidence.</p>
+            <h3 className="text-lg font-bold text-gray-900 mb-3">Expand Your Market</h3>
+            <p className="text-gray-500 leading-relaxed text-base">Seamlessly take on international clients with assets across countries without hesitation.</p>
           </div>
 
           {/* Feature 2: Protect Global Assets */}
@@ -37,13 +37,13 @@ export function CrossBorder() {
             <p className="text-gray-500 leading-relaxed text-base">Secure overseas properties, foreign bank accounts, and international investments.</p>
           </div>
 
-          {/* Feature 3: Minimize Tax Impact */}
+          {/* Feature 3: Mitigate Legal Risks */}
           <div className="text-center bg-white p-8 rounded-2xl border border-[#E5E7EB] shadow-[0_8px_30px_rgb(0,0,0,0.08)]">
             <div className="w-12 h-12 mb-6 mx-auto flex items-center justify-center bg-gray-50 rounded-xl border border-gray-100">
               <TrendingDown className="w-6 h-6 text-[#ab0f0f]" />
             </div>
-            <h3 className="text-lg font-bold text-gray-900 mb-3">Minimize Tax Impact</h3>
-            <p className="text-gray-500 leading-relaxed text-base">Structure wealth transfers to avoid unnecessary foreign estate taxes.</p>
+            <h3 className="text-lg font-bold text-gray-900 mb-3">Mitigate Legal Risks</h3>
+            <p className="text-gray-500 leading-relaxed text-base">Rely on proven frameworks to ensure international compliance and protect your practice from drafting liabilities.</p>
           </div>
 
           {/* Feature 4: Ensure Seamless Transfer */}
