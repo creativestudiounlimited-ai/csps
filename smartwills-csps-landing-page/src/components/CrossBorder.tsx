@@ -43,7 +43,7 @@ export function CrossBorder() {
               <TrendingDown className="w-6 h-6 text-[#ab0f0f]" />
             </div>
             <h3 className="text-lg font-bold text-gray-900 mb-3">Mitigate Legal Risks</h3>
-            <p className="text-gray-500 leading-relaxed text-base">Rely on proven frameworks to ensure international compliance and protect your practice from drafting liabilities.</p>
+            <p className="text-gray-500 leading-relaxed text-base">Use proven frameworks to guarantee compliance and eliminate liability.</p>
           </div>
 
           {/* Feature 4: Ensure Seamless Transfer */}
